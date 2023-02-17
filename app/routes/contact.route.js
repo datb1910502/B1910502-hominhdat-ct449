@@ -1,4 +1,4 @@
-const exports = require("express");
+const express = require("express");
 const contacts = require ("../controllers/contact.controller");
 
 const router = express.Router();
